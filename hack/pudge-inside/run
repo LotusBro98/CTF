@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gcc -W -Wall $1
+valgrind ./a.out

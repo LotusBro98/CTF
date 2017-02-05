@@ -1,0 +1,17 @@
+proxy
+	clion.vdi.mipt.ru
+
+http://s37603.vdi.mipt.ru
+	8080 table
+nc s37603.vdi.mipt.ru 9995
+	username flag
+
+docs.python.org
+http://hackyou.ctf.su
+
+wifi:
+	mipt-study
+	ejudgement
+
+
+nc remote.vdi.mipt.ru 51287

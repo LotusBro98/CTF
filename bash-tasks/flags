@@ -1,0 +1,8 @@
+flip:		flag{30fff0281c29cf0799d9fcaea77379a9}			sed "s/hexhexhex0x00/hexhexhex0x01/"
+simple:		flag{7dcdb5a749c7f5280762d65278bd678c}			really simple))
+apart:		flag{ba7bffc31d0c5395b45d98c7b4e4b9fc}			cat first > new && cat second >> new && cat third >> new
+dense:		flag{4bf47e277be11d43b6817748359b8074}			grep flag dense
+path:		flag{7c33cfd1423d7710171f1f00d0005d79}			find path -type f        path/7c33/cfd1/423d/7710/171f/1f00/d000/5d79/gotcha
+storage:	
+order:		
+hidden:		
